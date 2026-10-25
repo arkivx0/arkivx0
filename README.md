@@ -2,7 +2,7 @@ hey, I'm arkivx0. I mostly build small Windows and Android tools for myself and 
 
 **stuff I've made**
 - [BluntyBuds](https://github.com/arkivx0/BluntyBuds) - free offline controller for TOZO earbuds (ANC, EQ, AutoEQ, battery). Windows + Android, no account, no tracking.
-- [Radio Arkiv](https://github.com/arkivx0/RadioArkiv) - my fork of RadioDroid for Android internet radio. Skip back 5s on live streams, lock screen controls, scheduled recordings, a call-crash fix, and dark skins (Omarchy, Terminal, Enclave, Vintage).
+- [Radio Arkiv](https://github.com/arkivx0/RadioArkiv) - my fork of RadioDroid for Android internet radio, now at 1.0.0. Silent scheduled recordings, Skip back 5s on live streams, lock screen controls, scheduled recordings, a call-crash fix, and dark skins (Omarchy, Terminal, Enclave, Vintage).
 
 **contributions**
 - added an NWS weather radar widget to [omarchy-widgets](https://github.com/SimonSchubert/omarchy-widgets/pull/254)
